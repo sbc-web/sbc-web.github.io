@@ -1,0 +1,17 @@
+name = "replicator"
+compatibility_date = "2024-01-01"
+
+main = "replicator"
+
+[durable_objects]
+bindings = [
+  { name = "server", class_name = "Replicator" }
+]
+
+[[rules]]
+type = "Data"
+
+# Indicate that you want the ChatRoom and RateLimiter classes to be callable as Durable Objects.
+[[migrations]]
+tag = "v1" # Should be unique for each entry
+new_classes = ["Replicator"]
