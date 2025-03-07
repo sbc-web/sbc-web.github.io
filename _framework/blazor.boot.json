@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "scoreboard2.Browser.dll",
   "resources": {
-    "hash": "sha256-M0M1abF4B7evb0H2Zo0AObF4Pw/gvVqP1KpR77YeF0U=",
+    "hash": "sha256-LnKaEr+UeqJ93VdlDI46DmPNvGSN+QfutyMSwUopjo4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-b2oAz23OosjpLXrWkfEU9/P2v71krn7gyeXWKuw/374="
     },
@@ -238,8 +238,8 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "scoreboard2.wasm": "sha256-N4ujenbVFuQQDUkMZL9TqzayebiJkpa84jrpZpFhZpI=",
-      "scoreboard2.Browser.wasm": "sha256-+R52teeileQowJ4VPoOIJNNPLx20P8pij5pej92FghE="
+      "scoreboard2.wasm": "sha256-CBsWBYJNS9KYZbHHdYo1PRO0Om/UAlgZt8crtN5v1bA=",
+      "scoreboard2.Browser.wasm": "sha256-G/WFdKONGcMmdYn/t7KnpNF3DZfT4ETVnW/2AdGgA4w="
     },
     "pdb": {
       "CommunityToolkit.Mvvm.pdb": "sha256-LyRJRjZHC4DdD/JRPtkS7P7FLiq31zQQ3maY7Ujj52U=",
@@ -249,12 +249,12 @@
       "IronSoftware.Shared.pdb": "sha256-XxvUk7syjoqcNPUth4xA7CY1n08TJef+CJ0SDQTFhr0=",
       "IronSoftware.Drawing.Common.pdb": "sha256-3E7x6pHeeT8FtYW02+rRpzfz+ctbhvzIoASvwQfkXm4=",
       "SkiaSharp.pdb": "sha256-R3UGotWx+j2aS3JIl6ecMRjcrvyy86DpBlB57Iiy98Y=",
-      "scoreboard2.pdb": "sha256-6YSKhQkiCCthUiM64bhFmcFqlOP+BwBBCIjJ9945vOw=",
-      "scoreboard2.Browser.pdb": "sha256-jeOW0i7N+jwyssxK53Ibybc3557VHocE/4g+Kfit1X4="
+      "scoreboard2.pdb": "sha256-yq77QU6t2X3l9uKBVnCg5Wt7hhaTZLpl5ejC8p7Wemk=",
+      "scoreboard2.Browser.pdb": "sha256-J8hg1q0dLc/9+g9WPiaTMsA64ycXkDJ+GtFeao3/vyU="
     },
     "vfs": {
       "runtimeconfig.bin": {
-        "supportFiles/0_runtimeconfig.bin": "sha256-HZXjtO56Wpho95HDMHyX+1USV1YaVRW5lxzq6Nn7sck="
+        "supportFiles/0_runtimeconfig.bin": "sha256-vojnNuAJL4f+kLH560q6nB+bHHtZTaCgl4idX9yMwgs="
       }
     }
   },
